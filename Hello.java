@@ -2,10 +2,10 @@ public class Hello{
  public static void main(String[]args){
   System.out.println("Vs code is Awesemoe ..");
 
-  grettings("Kazi Ahosun Habib Ripon");
+  grettings("Welcome Kazi Ahosun Habib Ripon Git");
  }
 
  public static void grettings(String name){
-  System.out.println("Welcome " + name);
+  System.out.println("Bye See you again " + name);
  }
 }
