@@ -2,14 +2,11 @@ public class Hello{
  public static void main(String[]args){
   System.out.println("Vs code is Awesemoe ..");
 
-  grettings("Welcome Kazi Ahosun Habib Ripon Git");
+  display();
  }
 
- public static void grettings(String name){
-  System.out.println("Bye See you again " + name);
+ public static void display(){
+  System.out.println("Hello ");
  }
 
- public static int sqr(int x){
-	return x*x;
- }
 }
