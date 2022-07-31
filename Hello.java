@@ -4,11 +4,7 @@ public class Hello{
 
 
  }
-public static void messgae(){
-	System.out.println("Hurrah ! we are able to contribute ");
-}
- public static void add(int a, int b){
-	return a*b;
- }
 
-}
+ public static int area(int x, int y, int z){
+	return x*y*z;
+ }
